@@ -22,5 +22,25 @@ docker-compose up --build
  
 <h3 lign="center"> Results</h3>
 
-
+#### Data in database
+![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/database.png)
+------
+#### Read
 ![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/read.png)
+------
+#### Create
+![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/create.png)
+-------
+#### Update
+![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/update.png)
+
+after update
+
+![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/after_update.png)
+-------
+#### delete
+![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/delete.png)
+
+after delete
+![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/after_delete.png)
+
