@@ -15,6 +15,8 @@ delete_many : delete multiple records from collection
 ```
 
 ## Run
+download this repository  install docker and docker compose then run
+
 ```
 docker-compose up --build
 ```
