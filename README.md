@@ -18,4 +18,9 @@ delete_many : delete multiple records from collection
 ```
 docker-compose up --build
 ```
+ ----
  
+<h3 lign="center"> Results</h3>
+
+
+![alt text](https://github.com/spctr01/mongodb_api/blob/main/result_imgs/read.png)
