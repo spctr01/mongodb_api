@@ -13,3 +13,9 @@ delete_one :  delete one record from collection
 delete_many : delete multiple records from collection 
 
 ```
+
+## Run
+```
+docker-compose up --build
+```
+ 
