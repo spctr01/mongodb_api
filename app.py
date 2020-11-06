@@ -77,7 +77,7 @@ def update():
 
 
 # delete one record only
-@app.route('/delete_one',methods=['POST'])
+@app.route('/delete_one',methods=['DELETE'])
 def delete():
     name = request.json['name']
     collection.delete_one({'name':name})
@@ -86,7 +86,7 @@ def delete():
 
 
 #delete multiple records
-@app.route('/delete_many',methods=['POST'])
+@app.route('/delete_many',methods=['DELETE'])
 def deletel_many():
     name = request.json['name']
     collection.delete_many({'name':name})
